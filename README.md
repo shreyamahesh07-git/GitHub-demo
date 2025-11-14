@@ -1,3 +1,3 @@
 # GitHub-demo
 First Git Repository<br>
-Author - Shreya
+Author - Shreya.M
